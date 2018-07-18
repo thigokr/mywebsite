@@ -1,0 +1,28 @@
+<html>
+javascript:alert("jooj")
+javascript:alert("jooj")
+javascript:alert("jooj")
+javascript:alert("jooj")
+javascript:alert("jooj")
+javascript:alert("jooj")
+javascript:alert("jooj")
+<img id="image" src="https://steamusercontent-a.akamaihd.net/ugc/103981389991882458/FE2EA927BD955626BEF3DE8A7A29EAB7CEDF6B2E/"/>
+
+html {
+  /* Set up the background  */
+  background-color: #023E54; 
+  background-image: url(https://steamusercontent-a.akamaihd.net/ugc/103981389991882458/FE2EA927BD955626BEF3DE8A7A29EAB7CEDF6B2E/); 
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#023E54), to(#10AAC0));
+  background-image: -webkit-linear-gradient(top, #023E54, #10AAC0); 
+  background-image: -moz-linear-gradient(top, #023E54, #10AAC0);
+  background-image: -o-linear-gradient(top, #023E54, #10AAC0);
+  min-height: 100%;
+  height: auto;
+}
+
+#shipcanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Makes sure this is underneath other HTML elements (on my site, it's behind a login form  */
+}
