@@ -1,0 +1,156 @@
+<html>
+hello?
+whos you?
+
+
+
+why did u enter in here?
+w
+h
+y
+whyyyyyyyy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why are u scrolling the page?
+
+
+
+
+
+
+
+
+
+
+u are scaring me
+
+
+
+
+
+<div style=”width: 25%; height: 50px; overflow: auto; scrollbar-face-color: #CE7E00; scrollbar-shadow-color: #FFFFFF; br /scrollbar-highlight-color: #6F4709; scrollbar-3dlight-color:#11111; scrollbar-darkshadow-color: #6F4709; br /scrollbar-track-color: #FFE8C1; scrollbar-arrow-color: #6F4709;”>is tis funny?:)</div>
+
+
+
+
+
+
+
+
+
+u kno tis website was made with github?
+u like i imitatin a add?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+u
+dad
+lesbian
+
+
+
+
+
+
+
+u loosing u time in here
+
+
+
+
+
+
+<marquee>kek!</marquee>
+
+<select name=”clr” onchange=”document.bgColor=this.options[this.selectedIndex].value” size=”1″>
+    <br>
+    <option value=”black”>black
+        <option value=”orange”>orange
+            <option value=”flamingred”>fuschia
+                <option value=”lightyellow”>light yellow
+                    <option value=”green”>green
+                        <option value=”cyan”>cyan
+                            <option value=”yellow”>yellow
+                                <option value=”red”>red
+                                    <option value=”white”>white</option>
+</select>&nbsp;&nbsp;Background Color
+
+<br>
+<select name=”clr” onchange=”document.fgColor=this.options[this.selectedIndex].value” size=”1″>
+    <br>
+    <option value=”black”>black
+        <option value=”orange”>orange
+            <option value=”flamingred”>fuschia
+                <option value=”lightyellow”>light yellow
+                    <option value=”cyan”>cyan
+                        <option value=”yellow”>yellow
+                            <option value=”red”>red
+                                <option value=”white”>white</option>
+</select>&nbsp;&nbsp;Text Color
+
+
+
+itnst too lata for crisma
+
+<body>
+
+      <SCRIPT language=JavaScript>
+
+<!-- Begin
+var day_description = "Christmas";
+var day_before = "Christmas Eve";
+
+var today = new Date();
+var year = today.getYear();
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))		
+year="19" + year;
+if (navigator.appName == "Netscape")
+year=1900 + year;
+var date = new Date("December 25, " + year);
+var diff = date.getTime() - today.getTime();
+var days = Math.floor(diff / (1000 * 60 * 60 * 24));
+
+document.write("<center><h3>")
+
+if (days > 1)
+document.write("================== There are " + (days+1) + " days until " + day_description + "! ==================");
+else if (days == 1)
+document.write("================== Tommorrow is " + day_before  + "! ==================");
+else if (days == 0)
+document.write("================== Today is " + day_before + "!==================");
+else if (days == -1)
+document.write("================== It's " + day_description + "!==================");
+else if (days < -1)
+document.write(day_description + " was " + ((days+1)*-1) + (days < -2 ? " days" : " day") + " ago this year!");
+document.write("</h3></center>");
+
+//  End -->
+</SCRIPT>
+<BR>
+
+</body>
+
+</html>
